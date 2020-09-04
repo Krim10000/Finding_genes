@@ -9,7 +9,7 @@ So the next approach is to take the 50 bases before the start of a gen or operon
 
 and trying to see if there is a recurring pattern that is USEFUL to find any percentage of genes.
 
-~~I'm currently at limit of my abilities and have other time constraints so if you can do something with this info
+~~I'm currently at limit of my abilities and have other time constraints so if you can do something with this info~~
 
 So, I made a little NN its works, buuut it finds about 330.000 correct staring point, I have to think in a way to get this number down
 
